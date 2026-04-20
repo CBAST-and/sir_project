@@ -1,0 +1,4 @@
+cores,mode,wall_time,speedup,efficiency
+1,sequential,0.062,1.0,1.0
+1,parallel,0.406,0.1519,0.1519
+2,parallel,0.521,0.1183,0.0591
